@@ -1,0 +1,43 @@
+html, body  {
+  background: #E6E6FA;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+  
+}
+ol, ul {
+  list-style: none;
+  margin-top: 5vh;
+}
+ 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*end reset*/
+
+.left{
+	background: #fff;
+	height: 90vh;
+  margin: 0;
+	box-shadow: 0 0 3px rgba(0,0,0,1);
+  position: relative;
+}
+.content{
+	box-shadow: 0 0 8px rgba(0,0,0,1);
+  height: 90vh;
+	padding-left: 5vh; 
+	background: #fff;
+}

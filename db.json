@@ -1,0 +1,40 @@
+{
+  "Department": [
+    {
+      "id": 1,
+      "name": "Отдел DEV (разработок)"
+    },
+    {
+      "id": 2,
+      "name": "Отдел продвижения"
+    },
+    {
+      "id": 3,
+      "name": "Отдел дизайна"
+    },
+    {
+      "id": 4,
+      "name": "Отдел копирайтинга"
+    }
+  ],
+  "Employee": [
+    {
+      "id": 5,
+      "firstName": "Анна",
+      "lastName": "Ворошилова",
+      "departmentId": 3
+    },
+    {
+      "id": 2,
+      "firstName": "Иван",
+      "lastName": "Пушкин",
+      "departmentId": 1
+    },
+    {
+      "id": 6,
+      "firstName": "Дарья",
+      "lastName": "Иванова",
+      "departmentId": 4
+    }
+  ]
+}
